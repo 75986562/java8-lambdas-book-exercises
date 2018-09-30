@@ -1,5 +1,6 @@
 java-8-lambdas-exercises
 ========================
+本项目来自GitHub（https://github.com/RichardWarburton/java-8-Lambdas-exercises） 主要用于个人学习。
 
 This git repository contains support material for the [Java 8 Lambdas](http://tinyurl.com/java8lambdas) book.
 
